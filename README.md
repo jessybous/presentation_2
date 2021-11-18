@@ -2,6 +2,10 @@
 
 # Faire des ailes enflammé sur photoshop
 
+
+
+
+# la marche à suivre
 1. Installer un pinceau de feu
 2. choisir la  couleur des flammes
 3. baisser l'opacité pour les ailes du dos
