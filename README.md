@@ -13,7 +13,7 @@ Pour y accèder, il faut descendre dans l'icone de pinceau, jusqu'en bas de la l
 ![untitled](Untitled.gif)
 
 Pour que ça parrait plus réaliste, baisser l'opacité pour les ailes du fond, vue qu'elles sont derrière. 
-![2021-19-11.jpg](2021-19-11.jpg)
+![](2021-19-11.png)
 
 Pour que l'aile soit dans la direction desiré, il faut faire une rotation du pinceau. Pour les ailes de devant, juste augmenter l'opacité du pinceau
 
